@@ -6,7 +6,7 @@
   "keywords": [ "email", "validate" ],
   "license": "MIT",
   "src": [
-    "src/isemail.c",
-    "src/isemail.h"
+    "src/is-email.c",
+    "src/is-email.h"
   ]
 }
