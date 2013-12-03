@@ -1,0 +1,12 @@
+{
+  "name": "isemail",
+  "version": "0.0.1",
+  "repo": "stephenmathieson/is-email.c",
+  "description": "Loosely validate an email address",
+  "keywords": [ "email", "validate" ],
+  "license": "MIT",
+  "src": [
+    "src/isemail.c",
+    "src/isemail.h"
+  ]
+}
